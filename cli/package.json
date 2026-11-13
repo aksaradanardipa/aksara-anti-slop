@@ -1,0 +1,11 @@
+{
+  "name": "aksara-anti-slop",
+  "version": "1.0.0",
+  "description": "Interactive installer for Aksara Anti-Slop AI rules and skills across all editors.",
+  "bin": {
+    "aksara-anti-slop": "./index.mjs"
+  },
+  "type": "module",
+  "author": "aksaradanardipa <aksaradanardipa@gmail.com>",
+  "license": "MIT"
+}

@@ -1,0 +1,9 @@
+{
+  "name": "aksara-anti-slop",
+  "description": "Rules for an AI coding agent to filter out generic AI-generated UI designs, copywriting, and AI-shaped code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "aksaradanardipa",
+    "url": "https://github.com/aksaradanardipa"
+  }
+}

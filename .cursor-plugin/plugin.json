@@ -1,0 +1,6 @@
+{
+  "name": "aksara-anti-slop",
+  "displayName": "Aksara Anti-Slop Agent",
+  "description": "Rules and prompt skills to prevent AI slop in Cursor IDE.",
+  "version": "1.0.0"
+}

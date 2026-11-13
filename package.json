@@ -1,0 +1,24 @@
+{
+  "name": "aksara-anti-slop",
+  "version": "1.0.0",
+  "description": "Universal rules, skills, and plugins for AI coding agents to eliminate generic AI-generated slop in UI, copywriting, and code.",
+  "author": "aksaradanardipa <aksaradanardipa@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/aksaradanardipa/aksara-anti-slop",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aksaradanardipa/aksara-anti-slop.git"
+  },
+  "keywords": [
+    "ai-agents",
+    "anti-slop",
+    "ui-design",
+    "design-rules",
+    "accessibility",
+    "copywriting",
+    "agent-skills",
+    "claude-code",
+    "antigravity",
+    "cursor"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "aksara-anti-slop",
+  "displayName": "Aksara Anti-Slop Agent",
+  "description": "Aturan dan panduan standar AI coding agent: eliminasi AI-slop, UI/UX industri, fullstack engineering, zero code comments, dan aksesibilitas.",
+  "version": "1.0.0",
+  "author": "aksaradanardipa"
+}

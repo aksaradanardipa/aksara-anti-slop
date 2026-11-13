@@ -1,0 +1,6 @@
+{
+  "name": "aksara-anti-slop",
+  "version": "1.0.0",
+  "skillsPath": "../../skills",
+  "rulesPath": "../../rules"
+}

@@ -1,0 +1,17 @@
+---
+description: Aksara Anti-Slop Agent rules for Cursor IDE
+globs: *
+alwaysApply: true
+---
+
+# Aksara Anti-Slop Agent: Cursor Edition
+
+Apply these rules strictly:
+- No em dash (—) anywhere in generated copy.
+- No AI marketing buzzwords (Seamless, Revolutionary, Cutting-edge).
+- No fake data or statistics; use honest placeholder [REAL DATA].
+- No dead controls; every button or link must work or be omitted.
+- Keyboard accessibility and focus outlines required.
+- Zero code comments; write clean, self-documenting code.
+- Prevent duplicate actions (Action Locking on buttons).
+- Priority on clean Light Mode for enterprise, dashboard, and manufacturing.

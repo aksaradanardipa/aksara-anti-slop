@@ -1,0 +1,14 @@
+{
+  "id": "aksara-anti-slop@aksara-anti-slop",
+  "displayName": "Aksara Anti-Slop",
+  "description": "A rulebook and skills suite that stops AI coding agents from shipping generic UI, buzzwords, and AI-shaped code.",
+  "category": "Design & Development Tools",
+  "version": "1.0.0",
+  "tags": [
+    "design",
+    "ui",
+    "anti-slop",
+    "accessibility",
+    "rules"
+  ]
+}
