@@ -74,6 +74,14 @@ Copy `rules/aksara-anti-slop.md` into your project root as `AGENTS.md`.
 
 ---
 
+## 🙏 Acknowledgements & Credits
+
+Aksara Anti-Slop dibangun dengan rasa hormat dan penghargaan tinggi kepada komunitas open-source:
+
+* **[Miqdad Badjuber](https://github.com/miqdadbadjuber)** — Pencipta proyek **[anti-slop](https://github.com/miqdadbadjuber/anti-slop)** ([antislop.ai.id](https://antislop.ai.id)), yang telah merintis fondasi rulebook anti-slop, mekanisme liveliness dials, dan standar ketat craftsmanship untuk AI coding agents.
+
+---
+
 ## 📄 License
 
-Distributed under the **MIT License**. Created with craftsmanship by [Aksara Danardipa](https://github.com/aksaradanardipa).
+Distributed under the **MIT License**. Created with craftsmanship by [Aksara Danardipa](https://github.com/aksaradanardipa), incorporating foundational ideas from [anti-slop](https://github.com/miqdadbadjuber/anti-slop) by Miqdad Badjuber.
